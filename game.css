@@ -1,0 +1,18 @@
+.game{
+	width: 80%;
+    margin: 0 auto;
+}
+
+.row {
+  border:1px solid green;  
+  height:1em;
+  line-height:1em;
+}
+
+.box {
+  display:inline-block;
+  width:6.25%;
+  height:2em;
+  box-sizing:border-box;
+  border:1px solid black; 
+}
